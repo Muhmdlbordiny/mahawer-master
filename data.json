@@ -1,0 +1,61 @@
+  {
+    "products": [
+      {
+        "title": "Creality Ender 3 V2",
+        "price": 250,
+        "image": "images/products/product1.jpeg",
+        "Print_Speed": "60 - 100 mm/s",
+        "size": "220 * 220 * 250 mm"
+      },
+      {
+        "title": "Prusa i3 MK4",
+        "price": 800,
+        "image": "images/products/pro3.jpeg",
+        "Print_Speed": "Up to 200 mm/s",
+        "size": "220 * 250 * 250 mm"
+      },
+      {
+        "title": "Anycubic Photon Mono X 6K",
+        "price": 400,
+        "image": "images/products/pro2.jpg",
+        "Print_Speed": "60 - 100 mm/s",
+        "size": "240 * 220 * 250 mm"
+      },
+      {
+        "title": "Bambu Lab X1-Carbon",
+        "price": 200,
+        "image": "images/products/second section1.jpeg",
+        "Print_Speed": "60 - 100 mm/s",
+        "size": "220 * 230 * 270 mm"
+      },
+      {
+        "title": "Elegoo Mars 4 Ultra ",
+        "price": 500,
+        "image": "images/products/pro2.jpg",
+        "Print_Speed": "60 - 100 mm/s",
+        "size": "240 * 220 * 250 mm"
+      },
+      {
+        "title": "Raise3D Pro3",
+        "price": 180,
+        "image": "images/products/new1.jpg",
+        "Print_Speed": "60 - 100 mm/s",
+        "size": "220 * 250 * 250 mm"
+      },
+      {
+        "title": "FlashForge Creator Pro 2",
+        "price": 350,
+        "image": "images/products/new2.jpeg",
+        "Print_Speed": "60 - 100 mm/s",
+        "size": "220 * 260 * 250 mm"
+      },
+      {
+        "title": "Ultimaker S5",
+        "price": 450,
+        "image": "images/products/pro5.webp",
+        "Print_Speed": "60 - 100 mm/s",
+        "size": "280 * 220 * 250 mm"
+      }
+    ]
+  }
+  
